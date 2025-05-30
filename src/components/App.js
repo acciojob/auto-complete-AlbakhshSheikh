@@ -1,6 +1,6 @@
 import React from "react";More actions
 import './../styles/App.css';
-
+import Autocomplete from "./AutoComplete"
 const App = () => {
   let fruits = ["apple", "banana", "cherry", "date", "elderberry", "fig"];
   return (
