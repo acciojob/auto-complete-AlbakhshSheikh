@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";Add commentMore actions
+import React, { useState, useEffect } from "react";
 
 const Autocomplete = ({ suggestions }) => {
   const [query, setQuery] = useState("");
